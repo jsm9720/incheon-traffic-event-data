@@ -10,7 +10,8 @@
 - Python (ver 3.x)
 
 ## data
-- 경인교통방송 제보데이터 (원 데이터, 전처리 후 데이터)
+- 경인교통방송 제보데이터 (원 데이터, 전처리 후 데이터)  
+![raw_data](image/raw_data.png)
 
 ## web-server
 - Kakao Maps API의 Javascript API를 사용하기 위한 서버 구축
@@ -18,7 +19,7 @@
 
 ## result
 - 인청경인교통방송 접수 데이터로부터 추출한 좌표 데이터
-
+![result_data](image/result_data.png)
 ### code
 ```
 event_data_preprocessing.py
